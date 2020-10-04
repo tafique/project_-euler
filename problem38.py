@@ -5,7 +5,7 @@ def pan(n):
   else:
     return False
 for i in range(9999,1,-1):
-  print('i', i)
+  print('i', i) 
   s=''
   c=1
   while(True):
